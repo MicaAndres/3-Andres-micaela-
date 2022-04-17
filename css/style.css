@@ -1,0 +1,10 @@
+body{
+   background-color: antiquewhite; 
+   color: cadetblue;
+}
+
+h1, h4{
+    display: flex;
+    justify-content: center;
+}
+
